@@ -14,4 +14,12 @@ Working on the readme file
 
 Added blueprint notebook
 
+<<<<<<< HEAD
+
+
+corey smells like sweaty cheese
+=======
 This is my update - Kevin
+>>>>>>> d38e182871f27636e1ded565538897a284086311
+
+New entry - Michael Whitley
