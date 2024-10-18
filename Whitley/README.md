@@ -4,6 +4,7 @@ Isaac
 Kevin
 Dominique
 Micah
+Whitley
 
 
 I made the first change CJH
